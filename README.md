@@ -113,5 +113,5 @@ kina-instalacje/
 Strona zostala przygotowana jako kompletna prezentacja firmy instalacyjnej z branzy HVAC. Zawiera tresci ofertowe, dane kontaktowe, realizacje, sekcje serwisowe i materialy poradnikowe. Projekt jest nastawiony na pierwsze wrazenie, wiarygodnosc i szybkie przejscie uzytkownika do kontaktu.
 
 ## Autor
-Mateusz Fiebich
+Mateusz Fiebich 94866
 Projekt edukacyjno-komercyjny przygotowany dla strony KINA Instalacje.
