@@ -4,8 +4,8 @@
 @theme {
   --color-brand-black: #0A0A0B;
   --color-brand-white: #FAFAF7;
-  --color-brand-accent: #E61947; /* Logo Red */
-  --color-brand-heat: #C8553D; /* Muted Terracotta */
+  --color-brand-accent: #0897D3;
+  --color-brand-heat: #0B4F8A;
   --color-brand-muted: #141416;
   
   --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
@@ -37,7 +37,7 @@
 .text-clamp {
   font-size: clamp(2.5rem, 8vw, 9rem);
   line-height: 0.95;
-  letter-spacing: -0.04em;
+  letter-spacing: 0;
 }
 
 .no-scrollbar::-webkit-scrollbar {

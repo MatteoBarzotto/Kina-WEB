@@ -1,6 +1,8 @@
-# KINA Instalacje - HVAC Website
+# OAT Instalacje - strona firmowa
+
 https://matteobarzotto.github.io/Kina-WEB/
-Nowoczesna strona firmowa dla marki KINA Instalacje, zaprojektowana jako dynamiczna, responsywna prezentacja oferty HVAC, realizacji, serwisu oraz poradnika eksperckiego.
+
+Nowoczesna strona firmowa dla marki OAT Instalacje, zaprojektowana jako dynamiczna, responsywna prezentacja oferty instalacji sanitarnych, klimatyzacji, wentylacji, rekuperacji, ogrzewania i wycen.
 
 Projekt laczy wizerunkowy landing page, rozbudowane portfolio realizacji, blog poradnikowy i interaktywne tlo WebGL inspirowane przeplywem powietrza, ciepla i energii.
 
@@ -8,11 +10,11 @@ Projekt laczy wizerunkowy landing page, rozbudowane portfolio realizacji, blog p
 
 ## Najwazniejsze funkcje
 
-- responsywny landing page dla firmy HVAC
+- responsywny landing page dla firmy instalacyjnej / HVAC
 - interaktywne tlo video z warstwa WebGL/Three.js reagujaca na kursor
-- sekcje: oferta, uslugi HVAC, proces wspolpracy, serwis, FAQ i kontakt
-- portfolio 100+ realizacji z kategoriami i przyciskiem "Pokaz wiecej"
-- blog poradnikowy z osobnymi widokami artykulow
+- sekcje: oferta, uslugi instalacyjne, proces wspolpracy, wsparcie, FAQ i kontakt
+- zakresy realizacji OAT z kategoriami
+- poradnik instalacyjny z osobnymi widokami artykulow
 - formularz kontaktowy z walidacja HTML i gotowa wiadomoscia e-mail
 - autoryzowani partnerzy serwisowi z logo marek
 - semantyczna struktura HTML5: `nav`, `header`, `main`, `section`, `article`, `aside`, `footer`
@@ -22,7 +24,7 @@ Projekt laczy wizerunkowy landing page, rozbudowane portfolio realizacji, blog p
 
 ### Oferta i uslugi
 
-![Sekcja uslug HVAC](docs/screenshots/services.png)
+![Sekcja uslug](docs/screenshots/services.png)
 
 ### Realizacje
 
@@ -90,7 +92,7 @@ npm run lint
 ## Struktura projektu
 
 ```text
-kina-instalacje/
+oat-instalacje/
 ├── assets/
 │   ├── partners/
 │   ├── realizations/
