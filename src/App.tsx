@@ -796,7 +796,7 @@ const App = () => {
         <div className="max-w-7xl mx-auto flex items-center justify-between gap-3 glass px-4 md:px-8 py-3 md:py-4 rounded-full relative">
           <Logo className="w-[150px] sm:w-[175px] lg:w-[190px] xl:w-[220px] shrink-0 origin-left" />
           
-          <div className="hidden lg:flex items-center gap-6 xl:gap-8 font-mono text-[10px] uppercase tracking-[0.2em] text-white/60">
+          <div className="hidden lg:flex items-center gap-6 xl:gap-8 font-mono text-[11px] xl:text-xs uppercase tracking-[0.2em] text-white/60">
             <a href="#about" className="hover:text-white transition-colors">O Firmie</a>
             <a href="#offer" className="hover:text-white transition-colors">Oferta</a>
             <a href="#projects" className="hover:text-white transition-colors">Zakres prac</a>
